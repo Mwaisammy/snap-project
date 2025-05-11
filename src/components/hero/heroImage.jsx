@@ -5,7 +5,7 @@ const HeroImage = () => {
   return (
     <div className=" z-10">
       <img
-        src={HeroDesktop} // Replace with your image path
+        src={HeroDesktop}
         alt="Person working on laptop"
         className="w-full h-[400px] object-contain"
       />
